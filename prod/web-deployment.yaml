@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: web
-          image: atompassakornn/sample_multi_app:v1.1
+          image: atompassakornn/sample_multi_app:v1.2
 
           ports:
             - containerPort: 8080
